@@ -1,0 +1,19 @@
+{
+  "name": "shopping-list",
+  "version": "0.0.0",
+  "description": "A simple shopping list web application written in native JavaScript.",
+  "main": "",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inkemann/shopping-list.git"
+  },
+  "keywords": [],
+  "author": "Jonathan Inkemann",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Inkemann/shopping-list/issues"
+  },
+  "homepage": "https://github.com/Inkemann/shopping-list#readme"
+}
