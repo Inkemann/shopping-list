@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "description": "A simple shopping list web application written in native JavaScript.",
   "main": "",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Inkemann/shopping-list.git"
@@ -15,5 +14,11 @@
   "bugs": {
     "url": "https://github.com/Inkemann/shopping-list/issues"
   },
-  "homepage": "https://github.com/Inkemann/shopping-list#readme"
+  "homepage": "https://github.com/Inkemann/shopping-list#readme",
+  "devDependencies": {
+    "webpack": "^5.30.0",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {}
 }
