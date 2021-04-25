@@ -1,2 +1,2 @@
 # shopping-list
-A simple shopping list web application written in native JavaScript.
+A simple shopping list web application written in Kotlin/Fritz2.
